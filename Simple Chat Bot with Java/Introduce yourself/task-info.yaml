@@ -6,6 +6,9 @@ files:
   - name: test/Tests.java
     visible: false
     learner_created: false
-feedback_link: https://hyperskill.org/projects/113/stages/615/implement#comment
-status: Unchecked
-record: -1
+feedback_link: https://hyperskill.org/learn/step/9926#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 04 Jul 2024 12:07:53 UTC"
+record: 2
