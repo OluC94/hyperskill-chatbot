@@ -66,7 +66,6 @@ public class SimpleBot {
 
         }
 
-
     }
 
     static void end() {
